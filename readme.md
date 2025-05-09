@@ -395,6 +395,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [NameChanger](https://mrrsoftware.com/namechanger/) - Rename a list of files quickly and easily. ![Free][free]
 - [Nimble Commander](https://magnumbytes.com/) - Dual-pane file manager. ![Free][free] ![Dollar][mon]
 - [Path Finder](https://cocoatech.com) - Powerful, award-winning Finder alternative. ![Dollar][mon]
+- [RenameNinja](https://loshadki.app/renameninja/) - Rename files with regex and JavaScript, made for developers ![Dollar][mon]
 - [Spacedrive](https://www.spacedrive.com/) - A file explorer from the future. ![Open Source][oss]
 - [TotalFinder](https://totalfinder.binaryage.com/) - For Mac users who demand more from their Finder. ![Dollar][mon]
 - [Trickster](https://www.apparentsoft.com/trickster) - Your recently used files, at your fingertips. ![Dollar][mon]
@@ -768,15 +769,16 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Clockify](https://clockify.me/mac-time-tracking) - Free Mac time tracker. ![Free][free]
 - [Focus](https://heyfocus.com/) - Website blocker for macOS. ![Dollar][mon]
 - [Freedom](https://freedom.to/) - Freedom is the app and website blocker for Mac. ![Free][free]
+- [Freeter](https://freeter.io/) - Gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them. ![Open Source][oss]
+- [HelperX](https://github.com/HelperXApp/HelperX) - All-in-one Utility and Productivity Software for macOS. ![Free][free] and ![Dollar][mon]
 - [MindMac](https://mindmac.app/) - Feature-rich & privacy-first native ChatGPT app to use OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter all in one place.
+- [OpenIn](https://loshadki.app/openin4/) - Advanced Link Handler for browsers, mail clients and files. ![Dollar][mon]
+- [Paste](https://pasteapp.io/) - Keep, search, and organize everything you copy across all your devices. ![Dollar][mon]
 - [Pomotroid](https://github.com/Splode/pomotroid) - Simple and visually-pleasing Pomodoro timer. 🍅 ![Open Source][oss]
 - [Shortery](https://lgerckens.de/shortery/) - Shortcut Automation for your Mac. ![Free][free]
 - [Time Sink](https://manytricks.com/timesink/) - Track how you're spend your time. ![Dollar][mon]
 - [TomatoBar](https://github.com/ivoronin/TomatoBar) - World's neatest Pomodoro timer for macOS menu bar. 🍅 ![Open Source][oss]
 - [Whale](https://github.com/1000ch/whale) - Unofficial Trello app. 🐳 ![Open Source][oss]
-- [HelperX](https://github.com/HelperXApp/HelperX) - All-in-one Utility and Productivity Software for macOS. ![Free][free] and ![Dollar][mon]
-- [Freeter](https://freeter.io/) - Gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them. ![Open Source][oss]
-- [Paste](https://pasteapp.io/) - Keep, search, and organize everything you copy across all your devices. ![Dollar][mon]
 
 ### Programming Languages
 
@@ -1038,6 +1040,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [MacTerm](https://www.macterm.net/) - Powerful replacement for macOS Terminal. ![Free][free]
 - [Portx](https://portx.online/en/) - A Cross Platform SSH Client. ![Free][free]
 - [PowerShell](https://github.com/PowerShell/PowerShell) - Microsoft PowerShell for MacOS! ![Open Source][oss]
+- [ShellHistory](https://loshadki.app/shellhistory/) - Backup, sync and organize your shell history ![Dollar][mon]
 - [Tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age. ![Open Source][oss]
 - [warp](https://www.warp.dev/) - The terminal that supercharges your developer workflow. ![Star][fav]
 - [wezterm](https://wezfurlong.org/wezterm/index.html) - Cross-platform terminal emulator and multiplexer written in Rust ![Open Source][oss]
